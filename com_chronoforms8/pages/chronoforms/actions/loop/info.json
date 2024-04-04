@@ -1,0 +1,12 @@
+{
+	"title": "Loop",
+	"group": "Advanced",
+	"areas": [
+		{
+			"name": "loop",
+			"color": "white",
+			"title": "ForEach Item ..."
+		}
+	],
+	"icon":"rotate"
+}

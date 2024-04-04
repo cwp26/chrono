@@ -1,0 +1,14 @@
+{
+	"title": "Container",
+	"group": "Areas",
+	"class": "",
+	"areas": [
+		{
+			"name": "views",
+			"color": "white",
+			"note":"Drag fields here.",
+			"title": "Views"
+		}
+	],
+	"icon":"ellipsis"
+}
